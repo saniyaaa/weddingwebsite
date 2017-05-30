@@ -1,0 +1,49 @@
+.header{
+  font-family: Andale Mono;
+  font-size: 50px;
+  background-image: url('http://img.freepik.com/free-vector/abstract-background-with-hexagonal-pattern_1319-67.jpg?size=338&ext=jpg');
+  align-items: center;
+  color: maroon;
+}
+.welcome{
+  font-family: helvetica;
+  font-size: 18px;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.details{
+  font-family: helvetica;
+  font-size: 18px;
+}
+.details-head{
+  font-family: Andale Mono;
+  font-size: 30px;
+  align-items: center;
+  color: maroon;
+}
+.subhead{
+  font-family: Andale Mono;
+  font-size: 20px;
+  align-items: center;
+  color: maroon;
+}
+  .rsvp{
+    font-family: Helvetica;
+    font-size: 18px;
+    align-items: center;
+}
+.commentbox{
+  width: 300px;
+  margin-left: 200px;
+  margin-right: 500px;
+}
+body{
+  background-color:#F5F5DC;
+  text-align:center;
+  font: Andale Mono;
+}
+.cost{
+  font-weight: Bold;
+  color:blue;
+}
